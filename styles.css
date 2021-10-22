@@ -1,0 +1,23 @@
+.heading {
+    background-color: green;
+
+    font-family: p22-arts-and-crafts-tall, sans-serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+}
+
+.mainText {
+    font-family: modula-tall, sans-serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+
+    font-size: 200%;
+}
+
+.australian {
+    transform: rotateX(180deg);
+}
